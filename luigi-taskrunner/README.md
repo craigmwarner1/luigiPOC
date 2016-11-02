@@ -1,3 +1,9 @@
+THIS IS NOT MINE
+
+I have simply edited the Dockerfile of this wonderful repository simplify implementation
+of an intial proof of concept. 
+
+
 # luigi-task
 
 This container is pretty much exclusively for running luigi tasks as short-lived
