@@ -1,0 +1,1 @@
+docker run --rm --link luigid --privileged -v /home/craigmwarner1/scripts/luigi/:/luigi/tasks -v /var/run/docker.sock:/var/run/docker.sock luigi-taskrunner --module testTask ReadTask
